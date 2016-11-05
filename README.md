@@ -1,3 +1,9 @@
+# react-native-parse-html
+
+This is forked from [parse5](https://github.com/inikulin/parse5) in order to support react-native.
+
+The original README follows.
+
 <p align="center">
     <a href="https://github.com/inikulin/parse5">
         <img src="https://raw.github.com/inikulin/parse5/master/docs/logo.png" alt="parse5" />
