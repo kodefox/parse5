@@ -52,5 +52,8 @@
   },
   "files": [
     "lib"
-  ]
+  ],
+  "dependencies": {
+    "react-native-stream": "^0.1.0"
+  }
 }

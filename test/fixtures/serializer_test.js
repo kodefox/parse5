@@ -3,7 +3,7 @@
 var assert = require('assert'),
     path = require('path'),
     fs = require('fs'),
-    WritableStream = require('stream').Writable,
+    WritableStream = require('react-native-stream').Writable,
     parse5 = require('../../lib'),
     testUtils = require('../test_utils');
 
